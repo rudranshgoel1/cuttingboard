@@ -2,6 +2,23 @@
 
 a custom made rp2040 board
 
+# 2026-08-26: setup github repo + made bom and cpl
+
+**Total time spent: 25 minutes**
+
+# what did i work on?
+- added gerber/bom/cpl files to the repo
+- made the bom and cpl compatible for jlcpcb
+- found the parts and selected them asper the jlcpcb library
+- added the pcba finally to the cart (holy expensive)
+- then made the readme.md for this
+- then added journal to the repo
+- then i hit ship ( i think its ready? )
+
+no lapse for this coz i did this very very fast, but it GENUINELY TOOK ME 25 minutes coz why the hell are the names for the components so complicated and long???
+
+![Screenshot_2026-08-26_at_8.16.13_PM.png](https://cdn.hackclub.com/01a03f1a-0f5c-79ac-9969-cd3441d1c809/Screenshot_2026-08-26_at_8.16.13_PM.png)
+
 # 2026-08-26: Silkscreen
 
 **Total time spent: 21 minutes**
