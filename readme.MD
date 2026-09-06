@@ -33,9 +33,13 @@ Features:
 [BOM](BOM.csv)
 ![image](images/cart.png)
 
-Final Price comes out to be 8,469.63 INR ($88.77)
+PCB Cost - $11.71 [ shipping included ]
+Components Cost - $18.65
+
+Final Price comes out to be 2,868.63 INR ($30.36)
 
 ## Total Pricing
-The total price comes out to be 8,469.63 INR ($88.77) [ SHIPPING INCLUDED ]
+(reviewers, i have a jlcpcb coupon for $15, so the pcb cost get's nullified, so the total cost for me is $18.65, but for others it would be the price given below)
+The total price comes out to be 2,868.63 INR ($30.36) [ SHIPPING INCLUDED ]
 
 The pricing might slightly vary due to flash sales, and dollar market trends.
