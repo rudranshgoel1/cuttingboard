@@ -7,12 +7,16 @@ bcz i need more hardware projects in my portfolio and also because it seemed lik
 ### What was the hardest part about this ?
 routing. routing was hell. nevertheless, we did it.
 
+### assembly?
+going to hand solder each thing, if you want to do pcba (i can't due to budget reasons), go to the production folder and get the BOM and CPL for jlcpcb pcba service.
+
 Features:
 
 - rp2040 chip
 - usb-c for power
 - flash memory/storage
 - crystal occilator
+- built in accelerometer for cool shit
 - Custom PCB Art (really cool)
 
 ### Schematic
@@ -33,13 +37,13 @@ Features:
 [BOM](BOM.csv)
 ![image](images/cart.png)
 
-PCB Cost - $11.71 [ shipping included ]
+PCB Cost - $11.76 [ shipping included ]
 Components Cost - $18.65
 
-Final Price comes out to be 2,868.63 INR ($30.36)
+Final Price comes out to be 2,915.48 INR ($30.41)
 
 ## Total Pricing
 (reviewers, i have a jlcpcb coupon for $15, so the pcb cost get's nullified, so the total cost for me is $18.65, but for others it would be the price given below)
-The total price comes out to be 2,868.63 INR ($30.36) [ SHIPPING INCLUDED ]
+The total price comes out to be 2,915.48 INR ($30.41) [ SHIPPING INCLUDED ]
 
 The pricing might slightly vary due to flash sales, and dollar market trends.
