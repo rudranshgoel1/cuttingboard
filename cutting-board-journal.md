@@ -1,6 +1,47 @@
-# Cutting Board 
+---
+title: "Cutting Board "
+author: "stolen_username"
+description: "a custom made rp2040 board"
+created_at: "2026-08-25"
+---
 
-a custom made rp2040 board
+# 2026-09-18: Added an Accelerometer to make it more unique
+
+**Total time spent: 1 hour 40 minutes**
+
+so my devboard returned to me once again for almost being a replica of the tutorial, so i decided to add something unique
+
+# what did i do?
+- added mpu-6050 (accelerometer) in the devboard
+- INT is connected to GPIO25 so that the rp2040 can talk with the accelerometer.
+- controlling pins are GPIO4 and GPIO5 for the mpu-6050
+- mentioned in the github readme that im going to hand solder this
+
+schematic:
+![Screenshot_2026-09-18_at_6.58.44_PM.png](https://cdn.hackclub.com/01a0b4b4-9c8b-7c4d-8a88-8cdbd83f21dd/Screenshot_2026-09-18_at_6.58.44_PM.png)
+
+pcb:
+![Screenshot_2026-09-18_at_6.59.38_PM.png](https://cdn.hackclub.com/01a0b4b5-a348-7b42-b7a5-b754cefb2ad4/Screenshot_2026-09-18_at_6.59.38_PM.png)
+
+# 2026-09-06: 1 minute
+
+**Total time spent: 1 minute**
+
+# what did i do?
+- i decided im going to order the parts, and going to hand solder them.
+- its going to be one in my aah for sure, but i guess its the most cheapest option i have.
+
+![Screenshot_2026-09-07_at_12.05.43_AM.png](https://cdn.hackclub.com/01a07801-5d24-758c-8d95-63a824a7c249/Screenshot_2026-09-07_at_12.05.43_AM.png)
+
+# 2026-09-01: Updated BOM
+
+**Total time spent: 5 minutes**
+
+# what did i do?
+- updated bom with item prices
+- links are not there as they are chosen from the jlcpcb pcba option
+
+![Screenshot_2026-09-01_at_9.36.07_PM.png](https://cdn.hackclub.com/01a05db8-90da-7f98-af4c-607b60de14bd/Screenshot_2026-09-01_at_9.36.07_PM.png)
 
 # 2026-08-26: setup github repo + made bom and cpl
 
