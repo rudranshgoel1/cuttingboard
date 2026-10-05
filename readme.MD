@@ -18,6 +18,7 @@ Features:
 - crystal occilator
 - built in accelerometer for cool shit
 - Custom PCB Art (really cool)
+- led
 
 ### Schematic
 ![image](images/schem1.png)
@@ -45,5 +46,7 @@ Final Price comes out to be 2,915.48 INR ($30.41)
 ## Total Pricing
 (reviewers, i have a jlcpcb coupon for $15, so the pcb cost get's nullified, so the total cost for me is $18.65, but for others it would be the price given below)
 The total price comes out to be 2,915.48 INR ($30.41) [ SHIPPING INCLUDED ]
+
+I am going to hand solder all the components.
 
 The pricing might slightly vary due to flash sales, and dollar market trends.
